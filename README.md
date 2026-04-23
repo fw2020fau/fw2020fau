@@ -11,10 +11,6 @@ I'm currently working on projects that help me build real experience in software
 - Full-stack application development
 - Technical project building
 
-## Featured Work
-### sports-team-health-demo
-A web-based application built with JavaScript that demonstrates role-based workflows and health tracking functionality for a sports team environment.
-
 ## Current Goals
 - Expand my portfolio with stronger technical projects
 - Build more cybersecurity-focused work
@@ -22,6 +18,7 @@ A web-based application built with JavaScript that demonstrates role-based workf
 - Prepare for cybersecurity internships and full-time roles
 
 ## Tools & Technologies
+- Python
 - JavaScript
 - Node.js
 - HTML/CSS
