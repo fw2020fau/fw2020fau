@@ -1,16 +1,32 @@
-## Hi there 👋
+# Frank Watkins
 
-<!--
-**fw2020fau/fw2020fau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Florida Atlantic University graduating in December 2026, with a strong interest in cybersecurity, secure software development, and practical technical problem-solving.
 
-Here are some ideas to get you started:
+I'm currently working on projects that help me build real experience in software engineering and security-focused development while preparing for internships and entry-level cybersecurity roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Cybersecurity
+- Secure coding
+- Backend development
+- Full-stack application development
+- Technical project building
+
+## Featured Work
+### sports-team-health-demo
+A web-based application built with JavaScript that demonstrates role-based workflows and health tracking functionality for a sports team environment.
+
+## Current Goals
+- Expand my portfolio with stronger technical projects
+- Build more cybersecurity-focused work
+- Improve code quality, documentation, and project presentation
+- Prepare for cybersecurity internships and full-time roles
+
+## Tools & Technologies
+- JavaScript
+- Node.js
+- HTML/CSS
+- GitHub
+- VS Code
+
+## Connect
+I'm actively building my portfolio and looking to grow into the cybersecurity field.
